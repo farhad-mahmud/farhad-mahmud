@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Farhad Mahmud</h1>
-<h3 align="center">A passionate programmer whos into Competitive Programming and AI....</h3>
+<h3 align="center">A passionate programmer whos into Competitive Programming and AI</h3>
 
 - 🔭 I’m currently working on [Cardify](https://github.com/farhad-mahmud/cardify-flashcard.git)
 
